@@ -994,7 +994,7 @@ const Aloysious= {
 
     currentFocus: "the relationship between behavior and enviornment",
 
-    funFact: "I was once a sponsored skater, No I will not do a kickflip to prove that "chicks" can skate...I will do a sex-change with a 180-360 degree variable depending on my mood. Give me twenty bucks and I'll do it with my eyes closed. -love always, a healthy ego."
+    funFact: "I was once a sponsored skater, No I will not do a kickflip to prove that "chicks" can skate...I will do a sex-change with a 180-360 degree body variable depending on my mood. Give me twenty bucks and I'll do it with my eyes closed. -love always, a healthy ego."
 
 };
 ---!>
